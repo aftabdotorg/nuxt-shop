@@ -1,6 +1,7 @@
 <template>
   <div>
     <h2>Home</h2>
+    <h3>Tailwind CSS - Nuxt.js</h3>
   </div>
 </template>
 
